@@ -1,0 +1,6 @@
+c:\users\wrong\documents\visual studio 2017\Projects\KR1\KR1\bin\Debug\KR1.exe.config
+c:\users\wrong\documents\visual studio 2017\Projects\KR1\KR1\bin\Debug\KR1.exe
+c:\users\wrong\documents\visual studio 2017\Projects\KR1\KR1\bin\Debug\KR1.pdb
+c:\users\wrong\documents\visual studio 2017\Projects\KR1\KR1\obj\Debug\KR1.csprojResolveAssemblyReference.cache
+c:\users\wrong\documents\visual studio 2017\Projects\KR1\KR1\obj\Debug\KR1.exe
+c:\users\wrong\documents\visual studio 2017\Projects\KR1\KR1\obj\Debug\KR1.pdb
